@@ -12,11 +12,11 @@ La pregunta se deriva del objetivo del notebook: predicción de `Ticket Priority
 
 ## Entregables
 
-* `notebook\_customer\_support\_tiects\_ejecutado.ipynb`: notebook ejecutado con salidas visibles.
-* `customer\_support\_tickets\_depurado.csv`: dataset utilizado.
-* `dashboard\_customer\_support.twbx`: workbook Tableau.
-* `dashboard\_capturas.pdf`: capturas de las vistas principales.
-* `informe\_tecnico\_customer\_support.pdf`: informe técnico breve.
+* `notebook\\\_customer\\\_support\\\_tiects\\\_ejecutado.ipynb`: notebook ejecutado con salidas visibles.
+* `customer\\\_support\\\_tickets\\\_depurado.csv`: dataset utilizado.
+* `dashboard\\\_customer\\\_support.twbx`: workbook Tableau.
+* `dashboard\\\_capturas.pdf`: capturas de las vistas principales.
+* `informe\\\_tecnico\\\_customer\\\_support.pdf`: informe técnico breve.
 * `README.md`: documentación del proyecto.
 
 ## Estructura
@@ -24,35 +24,31 @@ La pregunta se deriva del objetivo del notebook: predicción de `Ticket Priority
 ```text
 .
 ├── Data/
-│   └── customer\_support\_tickets\_depurado.csv
+│   └── customer\\\_support\\\_tickets\\\_depurado.csv
 ├── Notebook/
-│   └── notebook\_customer\_support\_tickets.ipynb
+│   └── notebook\\\_customer\\\_support\\\_tickets.ipynb
 ├── Tableau/
-│   ├── dashboard\_customer\_support.twbx
-│   └── dashboard\_capturas.pdf
+│   ├── dashboard\\\_customer\\\_support.twbx
+│   └── dashboard\\\_capturas.pdf
 ├── Informe/
-│   └── informe\_tecnico\_customer\_support.pdf
+│   └── informe\\\_tecnico\\\_customer\\\_support.pdf
 └── README.md
 ```
 
 ## Ejecución del notebook
 
-1. Abrir `notebook\_customer\_support\_tiects\_ejecutado.ipynb` en Jupyter o Google Colab.
-2. Colocar `customer\_support\_tickets\_depurado.csv` en el mismo entorno.
-3. Si se ejecuta desde cero, ajustar `FILE\_PATH` al nombre/ruta del CSV.
+1. Abrir `notebook\\\_customer\\\_support\\\_tiects\\\_ejecutado.ipynb` en Jupyter o Google Colab.
+2. Colocar `customer\\\_support\\\_tickets\\\_depurado.csv` en el mismo entorno.
+3. Si se ejecuta desde cero, ajustar `FILE\\\_PATH` al nombre/ruta del CSV.
 4. Ejecutar todas las celdas.
 5. Verificar las métricas y gráficos antes de la defensa.
 
 ## Tableau
 
-Abrir `tableau/dashboard\_customer\_support.twbx` con Tableau Desktop. El workbook incluye la fuente CSV y las vistas diseñadas para: vista general, métricas clave, prioridad/canales y segmentación.
-
-## Colab
-
-Enlace: **\[Pegar aquí el enlace al notebook de Google Colab, si se utilizó]**
+Abrir `tableau/dashboard\\\_customer\\\_support.twbx` con Tableau Desktop. El workbook incluye la fuente CSV y las vistas diseñadas para: vista general, métricas clave, prioridad/canales y segmentación.
 
 ## GitHub
 
 Después de crear el repositorio, pegar aquí la URL:
-**https://github.com/\[usuario]/\[repositorio]**
+**https://github.com/kibel00/ai-and-organizational-data-management**
 
