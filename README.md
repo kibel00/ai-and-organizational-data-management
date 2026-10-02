@@ -47,8 +47,6 @@ La pregunta se deriva del objetivo del notebook: predicción de `Ticket Priority
 
 Abrir `tableau/dashboard\\\_customer\\\_support.twbx` con Tableau Desktop. El workbook incluye la fuente CSV y las vistas diseñadas para: vista general, métricas clave, prioridad/canales y segmentación.
 
-## GitHub
-
-Después de crear el repositorio, pegar aquí la URL:
+GitHub
 **https://github.com/kibel00/ai-and-organizational-data-management**
 
